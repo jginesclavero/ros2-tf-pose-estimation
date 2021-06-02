@@ -16,7 +16,8 @@ Implemented features are listed here : [features](./etcs/feature.md)
 
 ## Important Updates
 
-- 2021.6.2 (forked) ROS2 Foxy is now supported.
+- 2021.6.2  Add 3d pose of skell using depth image.
+- 2021.5.20 (forked) ROS2 Foxy is now supported.
 - 2021.2.15 (forked) Environment with tensorflow 2.3 is now supported. Tensorflow 1.x is no longer supported.
 - 2019.3.12 Add new models using mobilenet-v2 architecture. See : [experiments.md](./etcs/experiments.md)
 - 2018.5.21 Post-processing part is implemented in c++. It is required compiling the part. See: https://github.com/ildoonet/tf-pose-estimation/tree/master/src/pafprocess
@@ -34,6 +35,8 @@ You need dependencies below.
 - slidingwindow
   - https://github.com/adamrehn/slidingwindow
   - I copied from the above git repo to modify few things.
+- gb_perception
+  - https://github.com/gentlebots/gb_perception
 
 ### Pre-Install Jetson case
 
