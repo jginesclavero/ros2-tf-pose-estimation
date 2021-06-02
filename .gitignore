@@ -118,3 +118,17 @@ models/pretrained/resnet_v2_101/train.graph
 src/pafprocess/pafprocess.py
 src/pafprocess/pafprocess_wrap.cpp
 src/pafprocess/pafprocess_wrap.cxx
+venv/
+tf_pose_estimation/models/graph/cmu/graph_opt.pb
+tf_pose_estimation/models/pretrained/mobilenet_v1_0.50_224_2017_06_14/mobilenet_v1_0.50_224.ckpt.data-00000-of-00001
+tf_pose_estimation/models/pretrained/mobilenet_v1_0.50_224_2017_06_14/mobilenet_v1_0.50_224.ckpt.index
+tf_pose_estimation/models/pretrained/mobilenet_v1_0.50_224_2017_06_14/mobilenet_v1_0.50_224.ckpt.meta
+tf_pose_estimation/models/pretrained/mobilenet_v1_0.75_224_2017_06_14/mobilenet_v1_0.75_224.ckpt.data-00000-of-00001
+tf_pose_estimation/models/pretrained/mobilenet_v1_0.75_224_2017_06_14/mobilenet_v1_0.75_224.ckpt.index
+tf_pose_estimation/models/pretrained/mobilenet_v1_0.75_224_2017_06_14/mobilenet_v1_0.75_224.ckpt.meta
+tf_pose_estimation/models/pretrained/mobilenet_v1_1.0_224_2017_06_14/mobilenet_v1_1.0_224.ckpt.data-00000-of-00001
+tf_pose_estimation/models/pretrained/mobilenet_v1_1.0_224_2017_06_14/mobilenet_v1_1.0_224.ckpt.index
+tf_pose_estimation/models/pretrained/mobilenet_v1_1.0_224_2017_06_14/mobilenet_v1_1.0_224.ckpt.meta
+tf_pose_estimation/models/pretrained/resnet_v2_101/eval.graph
+tf_pose_estimation/models/pretrained/resnet_v2_101/resnet_v2_101.ckpt
+tf_pose_estimation/models/pretrained/resnet_v2_101/train.graph
